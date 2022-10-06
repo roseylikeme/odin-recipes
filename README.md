@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Recipes project from The Odin Projext
+Building a recipe index and learning basic HTML.
