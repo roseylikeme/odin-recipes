@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(199, 213, 225);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 144, 162);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    color: white;
+    background-color: rgb(231, 192, 192);
+}
+
+.list.div{
+    background-color: rgb(243 244 246/var(--tw-bg-opacity));
+}
+
+li {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: palevioletred;
+    margin: 20px;
+    background-color: rgb(255, 212, 212);
+    padding: 50px;
+    text-align: center;
+    border: 10px solid;
+}
